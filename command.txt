@@ -5,4 +5,4 @@ lệnh git add ...(tên file) để add 1 file vào trong repository
 sau khi add thì mình sẽ commit : git commit -m "...(lời nhắn)" để commit trong local repository
 sau khi commit thì push 
 :)))
-ahohohoh
+ahohohohahihihi
