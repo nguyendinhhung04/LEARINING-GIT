@@ -1,0 +1,6 @@
+lệnh git init để tạo một repository
+lệnh git add ...(tên file) để add 1 file vào trong repository 
+    hoặc có thể dùng git add.để add toàn bộ file trong folder
+
+sau khi add thì mình sẽ commit : git commit -m "...(lời nhắn)" để commit trong local repository
+sau khi commit thì push 
